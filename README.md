@@ -2,10 +2,10 @@
 
 AI
 
-## Describe machine learning, deep learning, neural networks, and ML algorithms like classification, regression, clustering, and dimensional reduction 
+### Describe machine learning, deep learning, neural networks, and ML algorithms like classification, regression, clustering, and dimensional reduction 
 
-## Implement supervised and unsupervised machine learning models using SciPy and ScikitLearn 
+### Implement supervised and unsupervised machine learning models using SciPy and ScikitLearn 
 
-## Deploy machine learning algorithms and pipelines on Apache Spark 
+### Deploy machine learning algorithms and pipelines on Apache Spark 
 
-## Build deep learning models and neural networks using Keras, PyTorch, and TensorFlow
+### Build deep learning models and neural networks using Keras, PyTorch, and TensorFlow
